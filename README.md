@@ -14,12 +14,12 @@ As a security analyst, I am finding data from more than one table by joining the
 
  <h4>
 Matching employees to their machines: </h4>
-<img src="https://imgur.com/hBdexwR.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/hBdexwR.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/BrHCgRd.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/h9HmYVA.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Returning more data:  </h4>
-<img src="https://imgur.com/zSVhQXL.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/hBdexwR.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/YI6L3AN.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/Ptt2CzS.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Retrieved login attempt data: </h4>
-<img src="https://imgur.com/y4wv85g.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/cBg2xxx.png" height="65%" width="70%" alt="Security Audit"/>
 
